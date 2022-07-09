@@ -43,6 +43,7 @@ nav{
     text-decoration: none;
     color: black;
     font-size:smaller;
+    font-weight: bold;
 }
 h2{
     margin-top: 30px;
@@ -123,6 +124,9 @@ h2{
 
 .div-nosotros p{
     color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: 1.6;
     font-size: smaller;
     font-weight: normal;
     padding-left: 5rem;
@@ -158,6 +162,9 @@ h2{
     font-weight: lighter;
     margin-left: 15px;
     margin-right: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: normal;
 }
 
 .div-productos button{
@@ -208,6 +215,9 @@ h2{
     font-weight: lighter;
     margin-left: 15px;
     margin-right: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: normal;
 }
 
 .div-productos2 button{
@@ -254,6 +264,9 @@ h2{
     font-weight: lighter;
     margin-left: 15px;
     margin-right: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: normal;
 }
 
 .div-productos3 button{
@@ -309,6 +322,9 @@ h2{
     font-weight: lighter;
     margin-left: 15px;
     margin-right: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: normal;
 }
 
 .div-productos4 button{
@@ -357,6 +373,9 @@ h2{
     font-weight: lighter;
     margin-left: 15px;
     margin-right: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: normal;
 }
 
 .div-productos5 button{
@@ -404,6 +423,9 @@ h2{
     font-weight: lighter;
     margin-left: 15px;
     margin-right: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: normal;
 }
 
 .div-productos6 button{
@@ -442,8 +464,12 @@ h2{
     color: black;
     font-weight: normal;
     line-height: 1.5;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: normal;
 }
 
 footer h6{
     text-align: center;
+    
 }
